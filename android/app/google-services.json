@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294012123443",
+    "project_id": "tcl-monitor",
+    "storage_bucket": "tcl-monitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294012123443:android:a9862d5fea2c018cb5e646",
+        "android_client_info": {
+          "package_name": "pk.com.enigmatek.tclmon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzRX00vzMxlykprkRg0OL2iPKaIvSAdSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
